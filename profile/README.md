@@ -10,6 +10,7 @@
 At **Argonet Dev Studio**, we aim to create useful, quirky side projects that make day-to-day experiences just a little easier—and a lot more enjoyable. Whether it’s displaying cafeteria menus, tracking restroom availability, or something completely out of the blue, this is where we turn inspiration into reality.
 
 - **[Foodbox](https://github.com/ArgonetDevStudio/foodbox)** 🍱: Find out the daily lunch menu effortlessly.
+- **[TashuDoko](https://github.com/ArgonetDevStudio/tashudoko)** 🚴‍♂️: Your End-of-Day Bike Station Reminder
 - **[looLook](https://github.com/ArgonetDevStudio/looLookProject)** 🚽: Real-time restroom occupancy updates.
 - **[Mock Loo](https://github.com/ArgonetDevStudio/mock-loo)** 🎭: A mock to simulate toilets for looLook project
 
